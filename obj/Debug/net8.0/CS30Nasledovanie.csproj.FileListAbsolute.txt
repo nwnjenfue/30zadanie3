@@ -1,0 +1,14 @@
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/bin/Debug/net8.0/CS30Nasledovanie
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/bin/Debug/net8.0/CS30Nasledovanie.deps.json
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/bin/Debug/net8.0/CS30Nasledovanie.runtimeconfig.json
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/bin/Debug/net8.0/CS30Nasledovanie.dll
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/bin/Debug/net8.0/CS30Nasledovanie.pdb
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.AssemblyInfoInputs.cache
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.AssemblyInfo.cs
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.csproj.CoreCompileInputs.cache
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.dll
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/refint/CS30Nasledovanie.dll
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.pdb
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/CS30Nasledovanie.genruntimeconfig.cache
+/Users/nuraitermezbek/Downloads/CS30Nasledovanie 2/obj/Debug/net8.0/ref/CS30Nasledovanie.dll
